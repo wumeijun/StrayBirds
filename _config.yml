@@ -5,7 +5,7 @@ safe: false
 highlighter: pygments
 title: Maggie的小窝居
 description: 欢迎光临
-theme: midnight
+theme: minimal
 disqusname: wumeijun
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
